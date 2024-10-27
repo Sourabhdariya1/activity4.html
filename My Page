@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        header{
+            background-color: black;
+            text-align: center;
+            padding: 5px;
+            ;
+        }
+        h1{
+            color: white;
+        }
+        a{
+            color:white;
+            padding-bottom: 2px;
+            text-decoration: none;
+
+
+        }
+        div{
+            background-color: white;
+            margin-right: 20px;
+            margin-left: 20px;
+            padding: 20px;
+            margin-top: 30px;
+
+
+        }
+        a2{
+            color: blue;
+        }
+        footer{background-color: black;
+            padding: 10px;
+            margin-top: 400px;
+            h3{
+                color: white;
+                text-align: center;
+
+            }
+    
+     }
+    </style>
+</head>
+<body style="background-color: antiquewhite;">
+    <header>
+        <h1>Welcome to my page</h1>
+    <a href="https://www.google.com">Home</a> &nbsp;&nbsp;
+     <a href="https://www.facebook.com">About</a>&nbsp;&nbsp;
+     <a href="https://www.youtube.com">Contact</a>
+
+    </header>
+    <div>
+        <h2>About This Page</h2>
+        <p>This is a simple webpage to demostarte styling and linking </p><br>
+        <a2 href="https://www.google.com">Visit example.com</a2>
+
+    </div>
+    <footer>
+        <h3>&copy;2024 My webpage</h3>
+    </footer>
+  
+</body>
+</html>
